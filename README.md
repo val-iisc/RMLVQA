@@ -1,4 +1,4 @@
-#Learnable Adaptive Margin Loss To Overcome Language Bias in Visual Question Answering
+##Learnable Adaptive Margin Loss To Overcome Language Bias in Visual Question Answering
 
 This repository contains the implementation of our model AdaArc-LM.
 This repository is built upon https://github.com/guoyang9/AdaVQA. 
@@ -11,14 +11,6 @@ file.
 	
 ## Memory required:
 	* 4GB approximately
-	
-## CPU used:
-	* AMD Ryzen Threadripper 3960X 24-Core Processor
-	
-## OS Version:
-	* Ubuntu 18.04.6 LTS
-	
-We used 5 random seeds to run the final models: 0, 2411, 5193, 1000, 1111
 
 ## Prerequisites
     * python==3.7.11
