@@ -1,4 +1,4 @@
-##Learnable Adaptive Margin Loss To Overcome Language Bias in Visual Question Answering
+## Learnable Adaptive Margin Loss To Overcome Language Bias in Visual Question Answering
 
 This repository contains the implementation of our model AdaArc-LM.
 This repository is built upon https://github.com/guoyang9/AdaVQA. 
